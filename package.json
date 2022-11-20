@@ -1,0 +1,14 @@
+{  
+  "name": "chapa-in-app-purchase",
+  "version": "1.0.0-beta",
+  "description": "unofficial chapa android in-app purchase library",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  }
+
+}
