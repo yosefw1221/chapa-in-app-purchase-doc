@@ -1,17 +1,15 @@
-name: Build and Deploy
-on: [push]
+name: Auto release github actions
+
+on:
+  release:
+    types: [published]
+
 jobs:
-  build-and-deploy:
+  actions-tagger:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@master
-
-      - name: chapa-in-app-purchase-doc
-        uses: yosef1221//chapa-in-app-purchase-doc@master
+      - uses: Actions-R-Us/actions-tagger@latest
+        with:
+          publish_latest: true
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          TARGET_REPO: yosef1221//chapa-in-app-purchase-doc
-          TARGET_BRANCH: master
-          BUILD_SCRIPT: yarn && yarn docs:build
-          BUILD_DIR: docs/.vuepress/dist
+          GITHUB_TOKEN: "${{secrets.ACCESS_TOKEN}}"
