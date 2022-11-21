@@ -2,7 +2,7 @@
 
 Welcome, This guide will help you to get started with Unofficial Chapa In-App Purchase Android Library.
 
-[Download Sample App](https://drive.google.com/file/d/10uex5K9aNCghJCLauvvqqr-UKdcVchmp/view?usp=share_link)
+[Download Sample App](https://bit.ly/example-apk)
 
 ## Installation
 
