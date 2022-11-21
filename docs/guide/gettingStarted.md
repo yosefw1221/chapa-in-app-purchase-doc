@@ -2,6 +2,8 @@
 
 Welcome, This guide will help you to get started with Unofficial Chapa In-App Purchase Android Library.
 
+[Download Sample App](https://drive.google.com/file/d/10uex5K9aNCghJCLauvvqqr-UKdcVchmp/view?usp=share_link)
+
 ## Installation
 
 > **minSdk : 19**
@@ -16,7 +18,7 @@ Welcome, This guide will help you to get started with Unofficial Chapa In-App Pu
 
 ## Initialize Configuration
 
-**Step 2 :** Initialize chapa configuration on your app's ```MainActivity``` or ```Application``` class
+**Step 3 :** Initialize chapa configuration on your app's ```MainActivity``` or ```Application``` class
 
 <CodeGroup>
 <CodeGroupItem title="JAVA">
@@ -33,7 +35,7 @@ Welcome, This guide will help you to get started with Unofficial Chapa In-App Pu
 
 ## Basic Usage
 
-**Step 3 :** To process simple basic payment
+**Step 4 :** To process simple basic payment
 
 <CodeGroup>
 <CodeGroupItem title="JAVA">
