@@ -1,0 +1,4 @@
+name: "Deploy to gh"
+runs:
+  using: "docker"
+  image: "Dockerfile"

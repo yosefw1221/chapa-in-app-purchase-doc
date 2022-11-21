@@ -7,11 +7,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
 
-      - name: chapa-in-app-purchase-doc
-        uses: yosef1221//chapa-in-app-purchase-doc@master
+      - name: vuepress-deploy
+        uses: jenkey2011/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          TARGET_REPO: yosef1221//chapa-in-app-purchase-doc
+          TARGET_REPO: yosefw1221/chapa-in-app-purchase-doc
           TARGET_BRANCH: master
           BUILD_SCRIPT: yarn && yarn docs:build
           BUILD_DIR: docs/.vuepress/dist
