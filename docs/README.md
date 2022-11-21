@@ -1,7 +1,8 @@
 ---
 home: true
+title: Home
 description: "Unofficial Chapa In-App Purchase Android Library"
-heroImage: /images/chapa.png
+heroImage: /images/intro.gif
 actions:
   - text: Get Started
     link: /guide/gettingStarted.md
