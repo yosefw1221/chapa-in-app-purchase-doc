@@ -16,14 +16,20 @@ export default defineUserConfig({
   description: 'Unofficial chapa android in-app purchase library',
 
   theme: defaultTheme({
-    logo: '/images/chapa.png',
-    repo: 'yosefw1221/chapa-in-app-purchase-doc',
-    docsDir: 'docs',
-
+    logo: '/images/android-chapa-logo.png',
+    repo: 'yosefw1221/',
+    
     sidebar: sidebar,
     navbar: navbar,
-    editLinkText: 'Edit this page on GitHub',
-
+    docsRepo: 'yosefw1221/chapa-in-app-purchase-doc',
+    // if your docs are not at the root of the repo:
+    docsDir: 'docs',
+    // if your docs are in a specific branch (defaults to 'master'):
+    docsBranch: 'master',
+    // defaults to false, set to true to enable
+    editLinks: true,
+    // custom text for edit link. Defaults to "Edit this page"
+    editLinkText: 'Help us improve this page!',
     themePlugins: {
       git: isProd,
     },
