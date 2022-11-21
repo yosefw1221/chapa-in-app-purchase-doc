@@ -12,6 +12,6 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: yosefw1221/chapa-in-app-purchase-doc
-          TARGET_BRANCH: master
+          TARGET_BRANCH: gh-page
           BUILD_SCRIPT: yarn && yarn docs:build
           BUILD_DIR: docs/.vuepress/dist
