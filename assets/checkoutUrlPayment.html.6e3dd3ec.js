@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a260863","path":"/checkoutUrlPayment.html","title":"Payment using Checkout Url","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1669401781000,"contributors":[{"name":"Yosef Worku","email":"114327329+yosefw1221@users.noreply.github.com","commits":1}]},"filePathRelative":"checkoutUrlPayment.md"}');export{e as data};
