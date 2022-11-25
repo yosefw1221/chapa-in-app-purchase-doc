@@ -5,12 +5,12 @@ Sometimes you may need to extend your own payment type to fit your need. You can
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/extendPaymentType.java)
+@[code](./code_snippet/java/extendPaymentType.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/extendPaymentType.kt)
+@[code](./code_snippet/kotlin/extendPaymentType.kt)
 
 </CodeGroupItem>
 </CodeGroup>

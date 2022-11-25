@@ -8,13 +8,13 @@ You can verify transaction by passing or ```tx-ref```, ```PaymentType``` object 
 <CodeGroup>
   <CodeGroupItem title="JAVA">
 
-  @[code](../code_snippet/java/verifyTransaction.java)
+  @[code](./code_snippet/java/verifyTransaction.java)
 
   </CodeGroupItem>
 
   <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/verifyTransaction.kt)
+@[code](./code_snippet/kotlin/verifyTransaction.kt)
 
   </CodeGroupItem>
 </CodeGroup>

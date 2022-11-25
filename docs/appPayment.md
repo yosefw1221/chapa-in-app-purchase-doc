@@ -20,19 +20,19 @@ It's for App's that requires user to purchase to use it's content/feature.
   
 - ```MainActivity``` is the activity that will be launched after payment is successful.
   
-@[code xml {2,9}](../code_snippet/other/manifest.xml)
+@[code xml {2,9}](./code_snippet/other/manifest.xml)
 
 **Step 2:** In ```PaymentActivity``` class
 
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/setupAppPayment1.java)
+@[code](./code_snippet/java/setupAppPayment1.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/setupAppPayment1.kt)
+@[code](./code_snippet/kotlin/setupAppPayment1.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -46,12 +46,12 @@ It's for App's that has both free and paid feature.
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/setupAppPayment2.java)
+@[code](./code_snippet/java/setupAppPayment2.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/setupAppPayment2.kt)
+@[code](./code_snippet/kotlin/setupAppPayment2.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -63,13 +63,13 @@ To retrieve payment plan you need to call ```getPaymentPlan``` method
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/retrivePaymentPlan.java)
+@[code](./code_snippet/java/retrivePaymentPlan.java)
 
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/retrivePaymentPlan.kt)
+@[code](./code_snippet/kotlin/retrivePaymentPlan.kt)
 
 </CodeGroupItem>
 </CodeGroup>

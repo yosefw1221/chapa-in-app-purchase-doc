@@ -11,12 +11,12 @@ To backup encrypted purchased data as a JSON string or JSONObject.
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/backupData.java)
+@[code](./code_snippet/java/backupData.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/backupData.kt)
+@[code](./code_snippet/kotlin/backupData.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -28,12 +28,12 @@ To restore encrypted purchased data from a JSON string or JSONObject.
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/restoreData.java)
+@[code](./code_snippet/java/restoreData.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/restoreData.kt)
+@[code](./code_snippet/kotlin/restoreData.kt)
 
 </CodeGroupItem>
 </CodeGroup>

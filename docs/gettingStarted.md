@@ -10,11 +10,11 @@ Welcome, This guide will help you to get started with Unofficial Chapa In-App Pu
 
 **Step 1 :** Open ```setting.gradle``` file add maven jetpack repository:
 
-@[code gradle {6}](../code_snippet/other/setting.gradle)
+@[code gradle {6}](./code_snippet/other/setting.gradle)
 
 **Step 2 :** On your ```build.gradle``` file add the following dependency:
 
-@[code gradle {2}](../code_snippet/other/build.gradle)
+@[code gradle {2}](./code_snippet/other/build.gradle)
 
 ## Initialize Configuration
 
@@ -23,12 +23,12 @@ Welcome, This guide will help you to get started with Unofficial Chapa In-App Pu
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/intialize.java)
+@[code](./code_snippet/java/intialize.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/intialize.kt)
+@[code](./code_snippet/kotlin/intialize.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -40,12 +40,12 @@ Welcome, This guide will help you to get started with Unofficial Chapa In-App Pu
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/basicPayment.java)
+@[code](./code_snippet/java/basicPayment.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/basicPayment.kt)
+@[code](./code_snippet/kotlin/basicPayment.kt)
 
 </CodeGroupItem>
 </CodeGroup>

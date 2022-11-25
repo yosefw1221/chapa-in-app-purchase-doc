@@ -22,12 +22,12 @@ the above method is repetitive, so we can create a ```BaseActivity``` class and 
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/baseActivity.java)
+@[code](./code_snippet/java/baseActivity.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/baseActivity.kt)
+@[code](./code_snippet/kotlin/baseActivity.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -40,12 +40,12 @@ To encrypt data, use ```Cipher.encrypt``` method.
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/encryptData.java)
+@[code](./code_snippet/java/encryptData.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/encryptData.kt)
+@[code](./code_snippet/kotlin/encryptData.kt)
 
 </CodeGroupItem>
 </CodeGroup>

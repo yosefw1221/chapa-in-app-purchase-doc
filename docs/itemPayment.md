@@ -18,12 +18,12 @@ It is a payment type that allow you to charge your customers to buy in-app Items
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/setupItemPayment.java)
+@[code](./code_snippet/java/setupItemPayment.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/setupItemPayment.kt)
+@[code](./code_snippet/kotlin/setupItemPayment.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -33,12 +33,12 @@ It is a payment type that allow you to charge your customers to buy in-app Items
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/getItemPayment.java)
+@[code](./code_snippet/java/getItemPayment.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/getItemPayment.kt)
+@[code](./code_snippet/kotlin/getItemPayment.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -48,12 +48,12 @@ It is a payment type that allow you to charge your customers to buy in-app Items
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/updateItemPayment.java)
+@[code](./code_snippet/java/updateItemPayment.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/updateItemPayment.kt)
+@[code](./code_snippet/kotlin/updateItemPayment.kt)
 
 </CodeGroupItem>
 </CodeGroup>
@@ -63,12 +63,12 @@ It is a payment type that allow you to charge your customers to buy in-app Items
 <CodeGroup>
 <CodeGroupItem title="JAVA">
 
-@[code](../code_snippet/java/removeItemPayment.java)
+@[code](./code_snippet/java/removeItemPayment.java)
 
 </CodeGroupItem>
 <CodeGroupItem title="KOTLIN" active>
 
-@[code](../code_snippet/kotlin/removeItemPayment.kt)
+@[code](./code_snippet/kotlin/removeItemPayment.kt)
 
 </CodeGroupItem>
 </CodeGroup>

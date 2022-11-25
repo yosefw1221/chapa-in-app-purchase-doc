@@ -7,13 +7,13 @@ When you have a backend server to generate checkout url you can use ```ChapaChec
 <CodeGroup>
   <CodeGroupItem title="Java">
 
-  @[code](../code_snippet/java/checkoutUrlPayment.java)
+  @[code](./code_snippet/java/checkoutUrlPayment.java)
 
   </CodeGroupItem>
 
   <CodeGroupItem title="Kotlin">
   
-  @[code](../code_snippet/kotlin/checkoutUrlPayment.kt)
+  @[code](./code_snippet/kotlin/checkoutUrlPayment.kt)
 
   </CodeGroupItem>
 </CodeGroup>
